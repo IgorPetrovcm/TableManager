@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yg9/l9kByo7ikkMfKg5a/A7biDPhErgmQvItqJ3f9WzMp0ddtdBQEzBdE7AQZO65bm36voRPbGNGDpQNl3AgBQ==",
+  "dgSpecHash": "+DS4J7OEn1MUpGDeZjfvIQbCHCSgQxBvr8Ux7vK0NBOdonqKM4lwD7XgzQiVg4wCj1/AkoAQpAiyjX09391srw==",
   "success": true,
-  "projectFilePath": "/home/admin/General/TableManager/Infrastructure/Persistence/Persistence.csproj",
+  "projectFilePath": "C:\\Users\\igorp\\Programming\\TableManager\\Infrastructure\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

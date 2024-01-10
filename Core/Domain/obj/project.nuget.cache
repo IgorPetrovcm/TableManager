@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lQOI+PsI+J7Jf/3UFogQ8yGBr5H9xiE44JWeYyvpi0c3KE62f19F4gYsBqIaTHNm+Y4QCMn6YPT+96Yw1hThEw==",
+  "dgSpecHash": "wfgtpn6mpbes0IFR5jLew6s1v+j6LS7a0sVuYkguFsO6e1O+uSsFIAF6gJ8moJofJNASUadWPmnGpJN7gBrvtw==",
   "success": true,
-  "projectFilePath": "/home/admin/General/TableManager/Core/Domain/Domain.csproj",
+  "projectFilePath": "C:\\Users\\igorp\\Programming\\TableManager\\Core\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
